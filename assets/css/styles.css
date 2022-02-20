@@ -16,7 +16,7 @@
   --text-color-light: hsl(var(--hue), 4%, 65%);
   --body-color: #1c1c28;
   --container-color: #fff;
-  --scroll-bar-color: #3e79fa00;
+  --scroll-bar-color: #212133;
   --scroll-thumb-color: hsl(var(--hue), 4%, 75%);
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
